@@ -18,7 +18,7 @@ namespace Farmacie
             //farmacie.AdaugMed(new Medicament("Paracetamol", 500, "Adulti", true));
             //farmacie.AdaugMed(new Medicament("Vidan", 20, "Adulti", true));
             //farmacie.AdaugMed(new Medicament("Ampicilina", 500, "Adulti", false));
-            //farmacie.AdaugMed(new Medicament("Normens", 500, "Copii", true));
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1(farmacie));
